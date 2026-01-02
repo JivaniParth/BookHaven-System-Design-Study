@@ -37,3 +37,18 @@ This repository acts as a **central index and comparison hub**.
 - Recommendation algorithms
 - Data preprocessing
 - Backend service design
+
+---
+
+## Architecture Comparison
+
+| Aspect | Node + MongoDB | Flask + MySQL | Recommendation Engine |
+|------|---------------|---------------|-----------------------|
+| Primary Goal | Scalability | Data Integrity | Personalization |
+| Data Model | NoSQL | Relational | Hybrid |
+| Complexity | Medium | Medium | High |
+| Production Ready | Yes | Yes | Partial |
+| Best Use Case | Modern web apps | Structured systems | Large datasets |
+
+> This project is part of the **BookHaven System Design Study**  
+> 🔗 Main repository: https://github.com/JivaniParth/BookHaven-System-Design-Study
