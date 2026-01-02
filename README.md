@@ -49,6 +49,3 @@ This repository acts as a **central index and comparison hub**.
 | Complexity | Medium | Medium | High |
 | Production Ready | Yes | Yes | Partial |
 | Best Use Case | Modern web apps | Structured systems | Large datasets |
-
-> This project is part of the **BookHaven System Design Study**  
-> 🔗 Main repository: https://github.com/JivaniParth/BookHaven-System-Design-Study
